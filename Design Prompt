@@ -1,0 +1,12 @@
+Act as an avant-garde digital fashion artist and master of creative coding (numpy, matplotlib, and scipy). Write a clean, self-contained Python script that generates a stunning, hyper-aesthetic, high-fashion fractal design meant for a luxury t-shirt print.
+Throw away basic math-plot aesthetics. We want high art, organic fluidity, and ethereal beauty.
+Aesthetic & Composition Guidelines:
+
+The Visual Vibe: A mesmerizing blend of iridescent liquid interference patterns, recursive floral sacred geometry (like a hyper-dimensional lotus/mandala), and swirling cosmic smoke. It should look fluid, organic, and expensive—not like a computer screensaver.
+Color Palette: An opulent, sophisticated palette featuring a deep obsidian/ink-black background, accented by iridescent mother-of-pearl shifts, liquid chrome silver, soft rose gold, and deep twilight violet. Avoid harsh, neon-primary colors.
+Texture & Depth: Soft luminous glows, delicate gradient feathering, and intricate multi-layered overlapping lines that create a sense of infinite depth.
+Technical Requirements:
+
+Use vectorized numpy arrays for smooth, high-density rendering.
+Output resolution must be print-ready (minimum 3600x3600 pixels at 300 DPI), saved automatically as a high-res PNG named luxury_fractal_shirt.png.
+Include the complete, runnable Python code and a quick breakdown of how to adjust the wave frequencies or color gradients to tweak the mood.
